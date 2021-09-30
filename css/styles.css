@@ -1,0 +1,36 @@
+.navigation {
+  background-color: black;
+  color: white;
+  border-radius: 0.3rem;
+}
+.navigation .links {
+  color: white;
+}
+.navigation .brand-name {
+  padding: 0.5rem 0.5rem;
+  font-weight: bold;
+}
+.navigation .nav-buttons {
+  text-align: right;
+  padding: 1rem 1rem;
+}
+.navigation .link-active {
+  font-weight: bold;
+}
+
+.list-non-bullet {
+  list-style: none;
+}
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+.links {
+  /*to reomove underline part in link*/
+  text-decoration: none;
+  padding: 0.5rem 0.5rem;
+}
+
+.angle-css {
+  margin: 5px;
+}
